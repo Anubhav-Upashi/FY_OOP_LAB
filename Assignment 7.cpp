@@ -47,7 +47,7 @@ class Student : public Person
 
 int main() {
     // Creating a Student object
-    Student student1("Alice Smith", 20, "alice@email.com", 101, "Computer Science");
+    Student student1("Amit Shah", 81, "Shahjii@email.com", 101, "Computer Science");
 
     cout << "--- Student Information ---" << endl;
     student1.displayStudentDetails();
